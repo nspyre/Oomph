@@ -204,7 +204,7 @@
     <setupTask
         xsi:type="projects:ProjectsImportTask">
       <sourceLocator
-          rootFolder="${nspyre.oomph.git.clone}"/>
+          rootFolder="${nspyre.oomph.git.clone.location}"/>
     </setupTask>
   </stream>
   <logicalProjectContainer
