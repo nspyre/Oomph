@@ -192,14 +192,14 @@
         </detail>
         <detail
             key="label">
-          <value>${scope.project.label} Oomph Github repository</value>
+          <value>NSPYRE Oomph Github repository</value>
         </detail>
         <detail
             key="target">
           <value>remoteURI</value>
         </detail>
       </annotation>
-      <description>${scope.project.label} Wiki</description>
+      <description>NSPYRE Oomph</description>
     </setupTask>
     <setupTask
         xsi:type="projects:ProjectsImportTask">
