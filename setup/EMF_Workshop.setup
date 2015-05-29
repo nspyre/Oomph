@@ -207,6 +207,7 @@
           rootFolder="${nspyre.oomph.git.clone.location}"/>
     </setupTask>
   </stream>
+  <stream name="exercise"/>
   <logicalProjectContainer
       xsi:type="setup:Project"
       href="index:/org.eclipse.setup#//@projectCatalogs[name='com.github']/@projects[name='user.project']"/>
