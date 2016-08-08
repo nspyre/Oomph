@@ -197,7 +197,7 @@
   <setupTask
       xsi:type="projects:ProjectsImportTask">
     <sourceLocator
-        rootFolder="${git.clone.location}/LanArchi/"
+        rootFolder="${git.clone.location}"
         locateNestedProjects="true"/>
   </setupTask>
   <stream name="master"
